@@ -19,6 +19,7 @@ sudo apt-get install libstdc++6 -y
 sudo apt-get install lua-lgi -y
 sudo apt-get install libnotify-dev -y
 sudo chmod +x tg
+rm -rf hmo
 lua hmo.lua
 sudo chmod +x hmo
 sudo chmod +x ./hm
@@ -37,3 +38,4 @@ sudo chmod +x hmo
 sudo chmod +x ./hm
 ./hm
 fi
+
