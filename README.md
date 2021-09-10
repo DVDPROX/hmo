@@ -1,3 +1,29 @@
-
-# hmo {R}
-}
+# <p align="center" > تنصيب سورس حمو
+# <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
+# <p align="center" > ⤈ ↫ كود التنصيب الاول مع المكاتب ↬ ⤈
+# <p align="center" > `git clone  https://github.com/TEAM-HMO/hmo ;cd hmo;chmod +x in.sh;chmod +x install.sh;./install.sh;./in.sh`
+# <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
+# <p align="center" > ⤈ ↫ كود التنصيب السريع من دون مكاتب ↬ ⤈
+# <p align="center" > `git clone https://github.com/TEAM-HMO/hmo ;cd hmo;chmod +x in.sh;./in.sh`
+# <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
+# <p align="center" > قم بنسخ احدى اكواد التنصيب
+# <p align="center" > والصقه في الترمنال واضغط انتر
+# <p align="center" > انتظر الى ان ينتهي التنصيب
+# <p align="center" > ⤈ ↫ بعدها املأ المتطلبات ↬ ⤈
+# <p align="center" > ~ ايدي المطور • توكن البوت ~
+# <p align="center" > ومبروك عليك تنصيب السورس
+# <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
+# <p align="center" > ⤈ ↫ كود الرن ↬ ⤈
+# <p align="center" > `../hmo/hm`
+# <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
+# <p align="center" > ⤈ ↫ كود حذف التنصيب ↬ ⤈
+# <p align="center" > `rm - rf hmo`
+# <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
+# <p align="center" > ⤈ ↫ كود تغير ايدي المطور الاساسي وتوكن البوت ↬ ⤈
+# <p align="center" > `cd hmo;rm - rf Info.lua;./hm`
+# <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
+# <p align="center" > [Source Ch](https://t.me/EYYDV) • [قناة السورس](https://t.me/EYYDV)
+# <p align="center" > [Exp Source](https://t.me/R4VEU) • [شروحات السورس](https://t.me/R4VEU)
+# <p align="center" > [Source Prog](https://t.me/Q9LLE) • [مبرمج السورس](https://t.me/Q9LLE)
+# <p align="center" > [onnection Bot](https://t.me/Q9LLEBOT) • [بوت التواصل](https://t.me/Q9LLEBOT)
+# <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
